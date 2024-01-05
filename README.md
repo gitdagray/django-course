@@ -26,7 +26,7 @@
 
 ### Description
 
-📺 [YouTube Playlist]() for this repository.
+📺 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NamGNr7dEqzNFEcZ_FAUVX) for this repository.
 
 🚀 This repository shares ALL of the resources referenced during the Python Django for Beginners tutorial series.
 
