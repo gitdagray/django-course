@@ -53,4 +53,5 @@
 ### 💻 Source Code
 
 - 🔗 [Chapter 1 - Introduction & Setup](https://github.com/gitdagray/django-course/tree/main/lesson01)
+- 🔗 [Chapter 2 - Django Apps & Templates](https://github.com/gitdagray/django-course/tree/main/lesson02)
 
