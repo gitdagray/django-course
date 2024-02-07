@@ -56,4 +56,5 @@
 - 🔗 [Chapter 2 - Django Apps & Templates](https://github.com/gitdagray/django-course/tree/main/lesson02)
 - 🔗 [Chapter 3 - Django Models & Migrations](https://github.com/gitdagray/django-course/tree/main/lesson03)
 - 🔗 [Chapter 4 - Django ORM](https://github.com/gitdagray/django-course/tree/main/lesson04)
+- 🔗 [Chapter 5 - Django Admin](https://github.com/gitdagray/django-course/tree/main/lesson05)
 
