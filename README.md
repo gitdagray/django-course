@@ -47,6 +47,8 @@
 ### 📚 References
 - 🔗 [Django Official Site](https://www.djangoproject.com/)
 - 🔗 [Python Official Site](https://www.python.org/)
+- 🔗 [Django Model field reference](https://docs.djangoproject.com/en/5.0/ref/models/fields)
+- 🔗 [Django Path Converters](https://docs.djangoproject.com/en/5.0/topics/http/urls/#path-converters)
 
 ---
 
@@ -57,4 +59,4 @@
 - 🔗 [Chapter 3 - Django Models & Migrations](https://github.com/gitdagray/django-course/tree/main/lesson03)
 - 🔗 [Chapter 4 - Django ORM](https://github.com/gitdagray/django-course/tree/main/lesson04)
 - 🔗 [Chapter 5 - Django Admin](https://github.com/gitdagray/django-course/tree/main/lesson05)
-
+- 🔗 [Chapter 6 - Django Pages, URLs & Slugs](https://github.com/gitdagray/django-course/tree/main/lesson06)
