@@ -60,3 +60,4 @@
 - 🔗 [Chapter 4 - Django ORM](https://github.com/gitdagray/django-course/tree/main/lesson04)
 - 🔗 [Chapter 5 - Django Admin](https://github.com/gitdagray/django-course/tree/main/lesson05)
 - 🔗 [Chapter 6 - Django Pages, URLs & Slugs](https://github.com/gitdagray/django-course/tree/main/lesson06)
+- 🔗 [Chapter 7 - Django Images](https://github.com/gitdagray/django-course/tree/main/lesson07)
