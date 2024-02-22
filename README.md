@@ -64,4 +64,5 @@
 - 🔗 [Chapter 6 - Django Pages, URLs & Slugs](https://github.com/gitdagray/django-course/tree/main/lesson06)
 - 🔗 [Chapter 7 - Django Images](https://github.com/gitdagray/django-course/tree/main/lesson07)
 - 🔗 [Chapter 8 - Django Challenge](https://github.com/gitdagray/django-course/tree/main/lesson08)
+- 🔗 [Chapter 9 - Django User Registration](https://github.com/gitdagray/django-course/tree/main/lesson09)
 
