@@ -14,6 +14,8 @@
 
 🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
 
+💖 [Support my content on Patreon](https://patreon.com/davegray)
+
 ☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
 
 🚀 Follow Me:
@@ -61,3 +63,5 @@
 - 🔗 [Chapter 5 - Django Admin](https://github.com/gitdagray/django-course/tree/main/lesson05)
 - 🔗 [Chapter 6 - Django Pages, URLs & Slugs](https://github.com/gitdagray/django-course/tree/main/lesson06)
 - 🔗 [Chapter 7 - Django Images](https://github.com/gitdagray/django-course/tree/main/lesson07)
+- 🔗 [Chapter 8 - Django Challenge](https://github.com/gitdagray/django-course/tree/main/lesson08)
+
