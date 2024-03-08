@@ -58,11 +58,12 @@
 
 - 🔗 [Chapter 1 - Introduction & Setup](https://github.com/gitdagray/django-course/tree/main/lesson01)
 - 🔗 [Chapter 2 - Django Apps & Templates](https://github.com/gitdagray/django-course/tree/main/lesson02)
-- 🔗 [Chapter 3 - Django Models & Migrations](https://github.com/gitdagray/django-course/tree/main/lesson03)
+- 🔗 [Chapter 3 - Models & Migrations](https://github.com/gitdagray/django-course/tree/main/lesson03)
 - 🔗 [Chapter 4 - Django ORM](https://github.com/gitdagray/django-course/tree/main/lesson04)
 - 🔗 [Chapter 5 - Django Admin](https://github.com/gitdagray/django-course/tree/main/lesson05)
-- 🔗 [Chapter 6 - Django Pages, URLs & Slugs](https://github.com/gitdagray/django-course/tree/main/lesson06)
-- 🔗 [Chapter 7 - Django Images](https://github.com/gitdagray/django-course/tree/main/lesson07)
-- 🔗 [Chapter 8 - Django Challenge](https://github.com/gitdagray/django-course/tree/main/lesson08)
-- 🔗 [Chapter 9 - Django User Registration](https://github.com/gitdagray/django-course/tree/main/lesson09)
+- 🔗 [Chapter 6 - Pages, URLs & Slugs](https://github.com/gitdagray/django-course/tree/main/lesson06)
+- 🔗 [Chapter 7 - Images](https://github.com/gitdagray/django-course/tree/main/lesson07)
+- 🔗 [Chapter 8 - Challenge](https://github.com/gitdagray/django-course/tree/main/lesson08)
+- 🔗 [Chapter 9 - User Registration](https://github.com/gitdagray/django-course/tree/main/lesson09)
+- 🔗 [Chapter 10 - User Login & Authentication](https://github.com/gitdagray/django-course/tree/main/lesson10)
 
