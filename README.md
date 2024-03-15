@@ -66,4 +66,5 @@
 - 🔗 [Chapter 8 - Challenge](https://github.com/gitdagray/django-course/tree/main/lesson08)
 - 🔗 [Chapter 9 - User Registration](https://github.com/gitdagray/django-course/tree/main/lesson09)
 - 🔗 [Chapter 10 - User Login & Authentication](https://github.com/gitdagray/django-course/tree/main/lesson10)
+- 🔗 [Chapter 11 - User Authorization](https://github.com/gitdagray/django-course/tree/main/lesson11)
 
