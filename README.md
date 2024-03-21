@@ -1,6 +1,6 @@
 # "Python Django for Beginners"
 
-### Full Course - ?? Chapters
+### Full Course - 12 Chapters
 
 ---
 
@@ -52,6 +52,13 @@
 - 🔗 [Django Model field reference](https://docs.djangoproject.com/en/5.0/ref/models/fields)
 - 🔗 [Django Path Converters](https://docs.djangoproject.com/en/5.0/topics/http/urls/#path-converters)
 
+### 🚀 Deployment Guides
+- 🔗 [Deploying Django on Render](https://docs.render.com/deploy-django)
+- 🔗 [Deploying Django on Replit](https://blog.replit.com/deploying-django)
+- 🔗 [Deploying Django on Digital Ocean](https://docs.digitalocean.com/developer-center/deploy-a-django-app-on-app-platform/)
+- 🔗 [Deploying Django on Railway](https://dev.to/osahenru/using-railway-app-to-deploy-your-django-project-3ah1)
+- 🔗 [Deploying Django on AWS](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html)
+
 ---
 
 ### 💻 Source Code
@@ -67,4 +74,5 @@
 - 🔗 [Chapter 9 - User Registration](https://github.com/gitdagray/django-course/tree/main/lesson09)
 - 🔗 [Chapter 10 - User Login & Authentication](https://github.com/gitdagray/django-course/tree/main/lesson10)
 - 🔗 [Chapter 11 - User Authorization](https://github.com/gitdagray/django-course/tree/main/lesson11)
+- 🔗 [Chapter 12 - Custom Forms](https://github.com/gitdagray/django-course/tree/main/lesson12)
 
